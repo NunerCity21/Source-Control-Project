@@ -1,16 +1,17 @@
 # Source-Control-Project
 
 Ethans-MacBook-Air:Source-Control-Project undercity21$ git log
-commit 63aa2120c3de2691a50b7473f732ec9966df9ab4 (HEAD -> main, origin/feature/demo, feature/demo, develop)
+commit efafa65c77ca8d4b808cc1272ecfb977ec4a7130 (HEAD -> main)
+Merge: 26aadf9 10b75bb
 Author: Ethan Crandall <ethanever.21@gmail.com>
-Date:   Fri Jan 12 07:53:07 2024 -0700
+Date:   Fri Jan 12 08:10:26 2024 -0700
 
-    Branch: feature/demo Push
+    mergE
 
-commit d71ab29d0991c3432dc547e044515d406ffe2f68 (origin/main, origin/HEAD, master)
+commit 10b75bb59d15da77898e3434229099f8225ddf5a (origin/develop, develop)
 Author: Ethan Crandall <ethanever.21@gmail.com>
-Date:   Fri Jan 12 07:42:35 2024 -0700
+Date:   Fri Jan 12 08:09:30 2024 -0700
 
-    css file
+    develop branch push
 
-commit a985f9f786717a06814afde1202008971f96e485
+commit 26aadf93a9f7bfd77183b6bf908c8bde2540d531 (origin/main, origin/HEAD)
